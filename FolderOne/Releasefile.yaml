@@ -1,0 +1,11 @@
+# Exported from:        http://DESKTOP-LS62RGN:5516/
+# Release version:      25.1.4-808.849
+# Date created:         Sat Nov 15 02:43:39 IST 2025
+
+---
+apiVersion: xl-release/v1
+kind: Import
+spec:
+  imports:
+  - Notifications.yaml
+  - Template_tem1.yaml
